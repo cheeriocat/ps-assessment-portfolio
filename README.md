@@ -1,16 +1,33 @@
-# React + Vite
+# 📁 Professional Skills — Assessment Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A dynamic, interactive portfolio built with **React + Vite + Tailwind CSS**, 
+developed as part of the Professional Skills module assessment.
 
-Currently, two official plugins are available:
+## 👤 Student Info
+- **Name:** H M K Nimsara
+- **Reg No:** SA24610312
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📚 Chapters Covered
+1. Employability Skills
+2. Emotional Intelligence
+3. Portfolio Writing
+4. CV Writing
+5. Interview Skills
+6. Dining Etiquettes
+7. Grooming Etiquettes
+8. Negotiation Skills
+9. Code of Ethics in IT
 
-## React Compiler
+## 🛠️ Tech Stack
+- React 18
+- Vite
+- Tailwind CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Getting Started
+```bash
+npm install
+npm run dev
+```
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌐 Live Demo
+[View Portfolio]()
